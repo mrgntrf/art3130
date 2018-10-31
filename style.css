@@ -1,0 +1,20 @@
+body {
+    background-color: azure;
+    font-family: sans-serif
+}
+
+h1 {
+    color: cadetblue
+}
+
+div {
+    border:6px groove purple;
+}
+
+div.class-name {
+    border-color: coral;
+}
+
+#id-name {
+    background-color: darkcyan;
+}
