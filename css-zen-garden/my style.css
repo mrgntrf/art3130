@@ -1,0 +1,11 @@
+
+/* TEXT STYLES */ 
+h1{
+    font-family: cursive;
+    font-size: 4em;
+    text-align: center;
+}
+
+.banner{
+    border:6px;color:aquamarine
+}
