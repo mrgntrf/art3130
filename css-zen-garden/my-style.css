@@ -1,3 +1,30 @@
-h1{
-    font-family:cursive
+body{
+    background-color: azure;
+    display:flex;}
+
+div{
+    display: flex;
+    flex-direction: row;
 }
+
+h1{
+    font-family: cursive;
+    font-size: 4em;
+    color:antiquewhite;
+    text-align: center;
+    background-color: darkcyan;
+    border-style: outset;
+    border-width: thick;
+    border-color:#5F9EA0;
+    align-content: center;
+   
+}
+h2,h3{
+    font-family:Didot, serif;
+    text-align:center;}
+.preamble{
+    align-content: center;
+}
+
+
+    
