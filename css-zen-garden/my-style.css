@@ -21,7 +21,11 @@ h1{
 }
 h2,h3{
     font-family:Didot, serif;
-    text-align:center;}
+    text-align:center;
+    border-style: outset;
+    border-width: thick;
+    border-color:#5F9EA0;
+}
 .preamble{
     align-content: center;
 }
