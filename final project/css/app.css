@@ -1,0 +1,14 @@
+body { background: red}
+
+header {
+    position: fixed;
+}
+
+.scrollingartcles article {
+    background-size: cover;
+    padding:8rem 2rem 2rem;
+}
+
+h3 {
+   
+}
